@@ -1,10 +1,8 @@
+import java.io.*;
 class Odd
 {
-  public boolean isOdd(int n)
+  public static void main(String args[])
   {
-    if(n%2==1)
-      return true;
-    else
-      return false;
+    System.out.println("My First Jenkins");
   }
 }
